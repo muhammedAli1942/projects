@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Araba Galerisi - Kayıt Ol</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      height: 100%;
+      font-family: Arial, sans-serif;
+    }
+    
+    body {
+      background: #1a1a2e; 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+
+    .login-container {
+      background: rgba(20, 20, 20, 0.85);
+      backdrop-filter: blur(8px);
+      padding: 40px 30px;
+      border-radius: 10px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      width: 90%;
+      max-width: 400px;
+      animation: fadeInUp 1s ease-out both;
+    }
+    
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 2rem;
+      color: #4e00e0;
+      letter-spacing: 1px;
+      animation: slideIn 1s ease-out forwards;
+    }
+    
+    @keyframes slideIn {
+      from {
+         transform: translateX(-50px);
+         opacity: 0;
+      }
+      to {
+         transform: translateX(0);
+         opacity: 1;
+      }
+    }
+    
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    label {
+      color: white;
+      margin-bottom: 5px;
+      font-size: 0.9rem;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+      padding: 12px 15px;
+      margin-bottom: 15px;
+      border: none;
+      border-radius: 5px;
+      background: #2a2a2a;
+      color: #fff;
+      outline: none;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    input[type="text"]:focus,
+    input[type="email"]:focus,
+    input[type="password"]:focus {
+      transform: scale(1.02);
+      box-shadow: 0 0 8px rgba(78, 0, 224, 0.7);
+    }
+    
+    button {
+      padding: 12px;
+      border: none;
+      border-radius: 5px;
+      background: #4e00e0;
+      color: #fff;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    button:hover {
+      transform: scale(1.03);
+      box-shadow: 0 4px 12px rgba(78, 0, 224, 0.5);
+    }
+    
+    .links {
+      text-align: center;
+      margin-top: 10px;
+    }
+    
+    .links a {
+      color: #4e00e0;
+      text-decoration: none;
+      margin: 0 5px;
+      transition: color 0.3s ease;
+    }
+    
+    .links a:hover {
+      color: #fff;
+    }
+    
+    @media (max-width: 480px) {
+      .login-container {
+        padding: 30px 20px;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+      input[type="text"],
+      input[type="email"],
+      input[type="password"] {
+        padding: 10px 12px;
+      }
+      button {
+        padding: 10px;
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="login-container">
+    <h1>Kayıt Ol</h1>
+    <form id="registrationForm">
+      <label for="text">Adınız</label>
+      <input type="text" id="username" name="name" placeholder="Adınızı giriniz" required>
+      <label for="email">E-posta:</label>
+      <input type="email" id="email" name="email" placeholder="E-posta adresinizi giriniz" required>
+      
+      <label for="password">Şifre:</label>
+      <input type="password" id="password" name="password" placeholder="Şifrenizi giriniz" required>
+      
+      <button type="submit">Kayıt Ol</button>
+    </form>
+    <div class="links">
+      <a href="giris.html">Giriş Yap</a>
+    </div>
+  </div>
+      <script>
+          document.getElementById('registrationForm').addEventListener('submit', async function(event) {
+            event.preventDefault();
+      
+            const ad = document.getElementById('username').value;
+            const eposta = document.getElementById('email').value;
+            const sifre = document.getElementById('password').value;
+      
+            try {
+              const response = await fetch("https://localhost:7259/register", {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ Ad: ad, Eposta: eposta, Sifre: sifre })
+              });
+              if (response.ok) {
+                alert('Kayıt başarılı!');
+              } else {
+                const data = await response.json();
+                alert('Kayıt başarısız: ' + data.message);
+              }
+            } catch (error) {
+              console.error("Hata:", error);
+              alert("Kayıt sırasında bir hata oluştu: " + error.message);
+            }
+          });
+        </script>
+</body>
+</html>
