@@ -1,0 +1,1347 @@
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.runtime.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.endpoints.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.exe
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.deps.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.runtimeconfig.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.pdb
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Humanizer.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.AssemblyReference.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfoInputs.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfo.cs
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.CoreCompileInputs.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cs
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\bundle\Araba Galeri.styles.css
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\projectbundle\Araba Galeri.bundle.scp.css
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2if8sser41-b9sayid5wm.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hzb0d2wz7e-61n19gt1b8.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\bopmulhwot-xtxxf3hu2r.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1iy8gxarq3-bqjiyaj88i.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\euens5l5wg-c2jlpeoesf.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\cczqnagqap-erw9l3u2r3.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\kpg0t4dra5-aexeepp0ev.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mczyxwo6ee-d7shbmvgxk.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z3p8q5dk4t-ausgxo2sd3.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\tkhb38hao9-k8d9w2qqmf.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\6nvj7uud7v-cosvhxvwiu.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\a2k6bs3kea-ub07r2b239.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uxwmwkri9-fvhpjtyr6v.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ehv05r7v0w-b7pk76d08c.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\v0hvf5hsb9-fsbi9cje9m.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\htb2ez2753-rzd6atqjts.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nhitfjnlpc-ee0r1s7dh0.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3e7zyjnyd-dxx9fxp4il.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3r1la5ngzw-jd9uben2k1.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iazufcwm18-khv3u5hwcm.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\f71fxhafmk-r4e9w2rdcm.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mzwps3i0df-lcd1t2u6c8.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\9ravjgth9g-c2oey78nd0.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\306x4dqkw4-tdbxkamptv.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3bjidwcsv1-j5mq2jizvt.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\284o7vtz2j-06098lyss8.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\axj9i8wgs6-nvvlpmu67g.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1yad4s96v6-s35ty4nyc5.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2oyl1mp0hi-pj5nd1wqec.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2a4fgeh7fo-46ein0sx1k.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\5623vjhu13-v0zj4ognzu.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eni4s44259-37tfw0ft22.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\czpm9ewyji-hrwsygsryq.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\lqhpijdojh-pk9g2wxc8p.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\klj69h51gw-ft3s53vfgj.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eh9x741h53-6cfz1n2cew.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\j3fs0ztour-6pdc2jztkx.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xkv4miulae-493y06b0oq.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hz685iq5c4-iovd86k7lj.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yymkfh3eub-vr1egmr9el.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\b3b29uz95s-kbrnm935zg.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\t06l3bxb45-jj8uyg4cgr.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ay15eh3zil-y7v9cxd14o.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\4k6w19tnvw-notf2xhcfb.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2xbvkv436m-h1s4sie4z3.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iaazw22dpu-63fj8s7r0e.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xhd34zz77y-0j3bgjxly4.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\qxea2ivcht-47otxtyo56.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nvi61pxf7l-4v8eqarkd7.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yo54dtct0r-356vix0kms.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xgupqax08f-83jwlth58m.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m1840b6pjy-mrlpezrjn3.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\o28eyufqgt-lzl9nlhx6b.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\n7coycopei-ag7o75518u.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\76jul5m3kf-x0q3zqp4vz.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\jyhrns7wjm-0i3buxo5is.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8014u0f8ym-o1o13a6vjx.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3gy0f1y5c-ttgo8qnofa.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\oye46apqv4-2z0ns9nrw6.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2k9ngls3bq-muycvpuwrr.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z95v0k4iga-87fc7y1x7t.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\romo9lep9j-mlv21k5csn.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uc8yyi9t4-lx58xz1aie.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\54byagolqa-lx58xz1aie.gz
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.build.Araba Galeri.props
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Araba Galeri.props
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Araba Galeri.props
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Ga.B7C4449A.Up2Date
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\refint\Araba Galeri.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.pdb
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.genruntimeconfig.cache
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\ref\Araba Galeri.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\muhammet ali\Desktop\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.AssemblyReference.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfoInputs.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfo.cs
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.CoreCompileInputs.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.MvcApplicationPartsAssemblyInfo.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cs
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\refint\Araba Galeri.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.pdb
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.Development.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.runtime.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.endpoints.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.exe
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.deps.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.runtimeconfig.json
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.pdb
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Core.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Identity.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Humanizer.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Common.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.ClientModel.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.CodeDom.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\bundle\Araba Galeri.styles.css
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\projectbundle\Araba Galeri.bundle.scp.css
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2if8sser41-b9sayid5wm.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hzb0d2wz7e-61n19gt1b8.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\bopmulhwot-xtxxf3hu2r.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1iy8gxarq3-bqjiyaj88i.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\euens5l5wg-c2jlpeoesf.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\cczqnagqap-erw9l3u2r3.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\kpg0t4dra5-aexeepp0ev.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mczyxwo6ee-d7shbmvgxk.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z3p8q5dk4t-ausgxo2sd3.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\tkhb38hao9-k8d9w2qqmf.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\6nvj7uud7v-cosvhxvwiu.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\a2k6bs3kea-ub07r2b239.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uxwmwkri9-fvhpjtyr6v.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ehv05r7v0w-b7pk76d08c.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\v0hvf5hsb9-fsbi9cje9m.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\htb2ez2753-rzd6atqjts.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nhitfjnlpc-ee0r1s7dh0.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3e7zyjnyd-dxx9fxp4il.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3r1la5ngzw-jd9uben2k1.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iazufcwm18-khv3u5hwcm.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\f71fxhafmk-r4e9w2rdcm.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mzwps3i0df-lcd1t2u6c8.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\9ravjgth9g-c2oey78nd0.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\306x4dqkw4-tdbxkamptv.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3bjidwcsv1-j5mq2jizvt.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\284o7vtz2j-06098lyss8.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\axj9i8wgs6-nvvlpmu67g.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1yad4s96v6-s35ty4nyc5.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2oyl1mp0hi-pj5nd1wqec.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2a4fgeh7fo-46ein0sx1k.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\5623vjhu13-v0zj4ognzu.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eni4s44259-37tfw0ft22.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\czpm9ewyji-hrwsygsryq.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\lqhpijdojh-pk9g2wxc8p.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\klj69h51gw-ft3s53vfgj.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eh9x741h53-6cfz1n2cew.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\j3fs0ztour-6pdc2jztkx.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xkv4miulae-493y06b0oq.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hz685iq5c4-iovd86k7lj.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yymkfh3eub-vr1egmr9el.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\b3b29uz95s-kbrnm935zg.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\t06l3bxb45-jj8uyg4cgr.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ay15eh3zil-y7v9cxd14o.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\4k6w19tnvw-notf2xhcfb.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2xbvkv436m-h1s4sie4z3.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iaazw22dpu-63fj8s7r0e.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xhd34zz77y-0j3bgjxly4.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\qxea2ivcht-47otxtyo56.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nvi61pxf7l-4v8eqarkd7.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yo54dtct0r-356vix0kms.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xgupqax08f-83jwlth58m.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m1840b6pjy-mrlpezrjn3.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\o28eyufqgt-lzl9nlhx6b.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\n7coycopei-ag7o75518u.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\76jul5m3kf-x0q3zqp4vz.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\jyhrns7wjm-0i3buxo5is.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8014u0f8ym-o1o13a6vjx.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3gy0f1y5c-ttgo8qnofa.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\oye46apqv4-2z0ns9nrw6.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2k9ngls3bq-muycvpuwrr.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z95v0k4iga-87fc7y1x7t.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\romo9lep9j-mlv21k5csn.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uc8yyi9t4-lx58xz1aie.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\54byagolqa-lx58xz1aie.gz
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.json
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.development.json
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.build.Araba Galeri.props
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Araba Galeri.props
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Araba Galeri.props
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Ga.B7C4449A.Up2Date
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.genruntimeconfig.cache
+D:\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\ref\Araba Galeri.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.Development.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.endpoints.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.runtime.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.exe
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.deps.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.runtimeconfig.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.pdb
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Core.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Identity.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Humanizer.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Common.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.ClientModel.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.CodeDom.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.AssemblyReference.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfoInputs.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfo.cs
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.CoreCompileInputs.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cs
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\bundle\Araba Galeri.styles.css
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\projectbundle\Araba Galeri.bundle.scp.css
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2if8sser41-b9sayid5wm.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hzb0d2wz7e-61n19gt1b8.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\bopmulhwot-xtxxf3hu2r.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1iy8gxarq3-bqjiyaj88i.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\euens5l5wg-c2jlpeoesf.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\cczqnagqap-erw9l3u2r3.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\kpg0t4dra5-aexeepp0ev.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mczyxwo6ee-d7shbmvgxk.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z3p8q5dk4t-ausgxo2sd3.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\tkhb38hao9-k8d9w2qqmf.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\6nvj7uud7v-cosvhxvwiu.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\a2k6bs3kea-ub07r2b239.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uxwmwkri9-fvhpjtyr6v.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ehv05r7v0w-b7pk76d08c.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\v0hvf5hsb9-fsbi9cje9m.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\htb2ez2753-rzd6atqjts.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nhitfjnlpc-ee0r1s7dh0.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3e7zyjnyd-dxx9fxp4il.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3r1la5ngzw-jd9uben2k1.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iazufcwm18-khv3u5hwcm.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\f71fxhafmk-r4e9w2rdcm.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mzwps3i0df-lcd1t2u6c8.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\9ravjgth9g-c2oey78nd0.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\306x4dqkw4-tdbxkamptv.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3bjidwcsv1-j5mq2jizvt.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\284o7vtz2j-06098lyss8.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\axj9i8wgs6-nvvlpmu67g.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1yad4s96v6-s35ty4nyc5.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2oyl1mp0hi-pj5nd1wqec.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2a4fgeh7fo-46ein0sx1k.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\5623vjhu13-v0zj4ognzu.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eni4s44259-37tfw0ft22.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\czpm9ewyji-hrwsygsryq.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\lqhpijdojh-pk9g2wxc8p.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\klj69h51gw-ft3s53vfgj.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eh9x741h53-6cfz1n2cew.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\j3fs0ztour-6pdc2jztkx.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xkv4miulae-493y06b0oq.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hz685iq5c4-iovd86k7lj.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yymkfh3eub-vr1egmr9el.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\b3b29uz95s-kbrnm935zg.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\t06l3bxb45-jj8uyg4cgr.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ay15eh3zil-y7v9cxd14o.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\4k6w19tnvw-notf2xhcfb.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2xbvkv436m-h1s4sie4z3.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iaazw22dpu-63fj8s7r0e.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xhd34zz77y-0j3bgjxly4.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\qxea2ivcht-47otxtyo56.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nvi61pxf7l-4v8eqarkd7.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yo54dtct0r-356vix0kms.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xgupqax08f-83jwlth58m.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m1840b6pjy-mrlpezrjn3.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\o28eyufqgt-lzl9nlhx6b.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\n7coycopei-ag7o75518u.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\76jul5m3kf-x0q3zqp4vz.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\jyhrns7wjm-0i3buxo5is.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8014u0f8ym-o1o13a6vjx.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3gy0f1y5c-ttgo8qnofa.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\oye46apqv4-2z0ns9nrw6.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2k9ngls3bq-muycvpuwrr.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z95v0k4iga-87fc7y1x7t.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\romo9lep9j-mlv21k5csn.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uc8yyi9t4-lx58xz1aie.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\54byagolqa-lx58xz1aie.gz
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.development.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.Araba Galeri.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.build.Araba Galeri.props
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Araba Galeri.props
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Araba Galeri.props
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Ga.B7C4449A.Up2Date
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\refint\Araba Galeri.dll
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.pdb
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.genruntimeconfig.cache
+D:\Web Proje Ödevi (Araba )\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\ref\Araba Galeri.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.Development.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\appsettings.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.runtime.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.staticwebassets.endpoints.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.exe
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.deps.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.runtimeconfig.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Araba Galeri.pdb
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Core.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Azure.Identity.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Humanizer.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Common.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.ClientModel.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.CodeDom.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.AssemblyReference.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfoInputs.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.AssemblyInfo.cs
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.csproj.CoreCompileInputs.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.MvcApplicationPartsAssemblyInfo.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.RazorAssemblyInfo.cs
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\bundle\Araba Galeri.styles.css
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\scopedcss\projectbundle\Araba Galeri.bundle.scp.css
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2if8sser41-b9sayid5wm.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hzb0d2wz7e-61n19gt1b8.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\bopmulhwot-xtxxf3hu2r.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1iy8gxarq3-bqjiyaj88i.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\euens5l5wg-c2jlpeoesf.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\cczqnagqap-erw9l3u2r3.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\kpg0t4dra5-aexeepp0ev.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mczyxwo6ee-d7shbmvgxk.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z3p8q5dk4t-ausgxo2sd3.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\tkhb38hao9-k8d9w2qqmf.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\6nvj7uud7v-cosvhxvwiu.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\a2k6bs3kea-ub07r2b239.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uxwmwkri9-fvhpjtyr6v.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ehv05r7v0w-b7pk76d08c.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\v0hvf5hsb9-fsbi9cje9m.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\htb2ez2753-rzd6atqjts.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nhitfjnlpc-ee0r1s7dh0.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3e7zyjnyd-dxx9fxp4il.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3r1la5ngzw-jd9uben2k1.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iazufcwm18-khv3u5hwcm.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\f71fxhafmk-r4e9w2rdcm.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\mzwps3i0df-lcd1t2u6c8.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\9ravjgth9g-c2oey78nd0.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\306x4dqkw4-tdbxkamptv.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\3bjidwcsv1-j5mq2jizvt.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\284o7vtz2j-06098lyss8.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\axj9i8wgs6-nvvlpmu67g.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\1yad4s96v6-s35ty4nyc5.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2oyl1mp0hi-pj5nd1wqec.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2a4fgeh7fo-46ein0sx1k.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\5623vjhu13-v0zj4ognzu.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eni4s44259-37tfw0ft22.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\czpm9ewyji-hrwsygsryq.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\lqhpijdojh-pk9g2wxc8p.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\klj69h51gw-ft3s53vfgj.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\eh9x741h53-6cfz1n2cew.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\j3fs0ztour-6pdc2jztkx.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xkv4miulae-493y06b0oq.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\hz685iq5c4-iovd86k7lj.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yymkfh3eub-vr1egmr9el.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\b3b29uz95s-kbrnm935zg.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\t06l3bxb45-jj8uyg4cgr.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\ay15eh3zil-y7v9cxd14o.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\4k6w19tnvw-notf2xhcfb.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2xbvkv436m-h1s4sie4z3.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\iaazw22dpu-63fj8s7r0e.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xhd34zz77y-0j3bgjxly4.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\qxea2ivcht-47otxtyo56.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\nvi61pxf7l-4v8eqarkd7.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\yo54dtct0r-356vix0kms.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\xgupqax08f-83jwlth58m.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m1840b6pjy-mrlpezrjn3.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\o28eyufqgt-lzl9nlhx6b.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\n7coycopei-ag7o75518u.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\76jul5m3kf-x0q3zqp4vz.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\jyhrns7wjm-0i3buxo5is.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8014u0f8ym-o1o13a6vjx.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\m3gy0f1y5c-ttgo8qnofa.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\oye46apqv4-2z0ns9nrw6.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\2k9ngls3bq-muycvpuwrr.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\z95v0k4iga-87fc7y1x7t.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\romo9lep9j-mlv21k5csn.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\8uc8yyi9t4-lx58xz1aie.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\compressed\54byagolqa-lx58xz1aie.gz
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.development.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Ga.B7C4449A.Up2Date
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\refint\Araba Galeri.dll
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.pdb
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\Araba Galeri.genruntimeconfig.cache
+D:\Ömer Saadet Karayaka 3230\Araba backend\Araba Galeri\Araba Galeri\obj\Debug\net9.0\ref\Araba Galeri.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\migrations\\20250508182546_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\migrations\\20250508182546_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\models\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\models\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\models\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\models\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|d:\\\u00F6mer saadet karayaka 3230\\araba backend\\araba galeri\\araba galeri\\controllers\\kullanicilarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453B05A4-99BB-403D-8955-74557DE78F07}|Araba Galeri\\Araba Galeri.csproj|solutionrelative:araba galeri\\controllers\\kullanicilarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kullanicilar.cs",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Models\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "Araba Galeri\\Models\\Kullanicilar.cs",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Models\\Kullanicilar.cs",
+              "RelativeToolTip": "Araba Galeri\\Models\\Kullanicilar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:44:12.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registerController.cs",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Models\\registerController.cs",
+              "RelativeDocumentMoniker": "Araba Galeri\\Models\\registerController.cs",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Models\\registerController.cs",
+              "RelativeToolTip": "Araba Galeri\\Models\\registerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:31:41.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250508182546_InitialCreate.cs",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Migrations\\20250508182546_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Araba Galeri\\Migrations\\20250508182546_InitialCreate.cs",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Migrations\\20250508182546_InitialCreate.cs",
+              "RelativeToolTip": "Araba Galeri\\Migrations\\20250508182546_InitialCreate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:25:47.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Araba Galeri\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Araba Galeri\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T17:16:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Program.cs",
+              "RelativeDocumentMoniker": "Araba Galeri\\Program.cs",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Program.cs",
+              "RelativeToolTip": "Araba Galeri\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:25:06.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KullanicilarsController.cs",
+              "DocumentMoniker": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Controllers\\KullanicilarsController.cs",
+              "RelativeDocumentMoniker": "Araba Galeri\\Controllers\\KullanicilarsController.cs",
+              "ToolTip": "D:\\\u00D6mer Saadet Karayaka 3230\\Araba backend\\Araba Galeri\\Araba Galeri\\Controllers\\KullanicilarsController.cs",
+              "RelativeToolTip": "Araba Galeri\\Controllers\\KullanicilarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:46:34.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

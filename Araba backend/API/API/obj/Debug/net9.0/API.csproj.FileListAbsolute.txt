@@ -1,0 +1,162 @@
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\appsettings.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.exe
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.deps.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.runtimeconfig.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\API.pdb
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.build.API.props
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.csproj.Up2Date
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\refint\API.dll
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.pdb
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\API.genruntimeconfig.cache
+C:\Users\muhammet ali\Desktop\Araba backend\API\API\obj\Debug\net9.0\ref\API.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\appsettings.Development.json
+D:\Araba backend\API\API\bin\Debug\net9.0\appsettings.json
+D:\Araba backend\API\API\bin\Debug\net9.0\API.staticwebassets.endpoints.json
+D:\Araba backend\API\API\bin\Debug\net9.0\API.exe
+D:\Araba backend\API\API\bin\Debug\net9.0\API.deps.json
+D:\Araba backend\API\API\bin\Debug\net9.0\API.runtimeconfig.json
+D:\Araba backend\API\API\bin\Debug\net9.0\API.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\API.pdb
+D:\Araba backend\API\API\bin\Debug\net9.0\Azure.Core.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Azure.Identity.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.ClientModel.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Araba backend\API\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Araba backend\API\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+D:\Araba backend\API\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Araba backend\API\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+D:\Araba backend\API\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+D:\Araba backend\API\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+D:\Araba backend\API\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Araba backend\API\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.build.json
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.development.json
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.build.API.props
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Araba backend\API\API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Araba backend\API\API\obj\Debug\net9.0\API.csproj.Up2Date
+D:\Araba backend\API\API\obj\Debug\net9.0\API.dll
+D:\Araba backend\API\API\obj\Debug\net9.0\refint\API.dll
+D:\Araba backend\API\API\obj\Debug\net9.0\API.pdb
+D:\Araba backend\API\API\obj\Debug\net9.0\API.genruntimeconfig.cache
+D:\Araba backend\API\API\obj\Debug\net9.0\ref\API.dll
